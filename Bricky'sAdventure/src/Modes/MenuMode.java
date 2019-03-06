@@ -66,7 +66,7 @@ public class MenuMode {
 	
 	public void renew() {
 		
-		System.out.println("hey");
+		
 		
 		if(window.menu) {
 			
