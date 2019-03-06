@@ -14,9 +14,7 @@ public class MenuPlayButton extends Button{
 	@Override
 	public void action() {
 		
-		System.out.println("Hellao");
-
-		System.out.println("HEY");
+	
 		window.setGame(true);
 		window.setMenu(false);
 		
